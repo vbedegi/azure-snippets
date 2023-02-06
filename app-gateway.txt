@@ -1,3 +1,5 @@
+# https://laurakokkarinen.com/stopping-and-starting-azure-application-gateway-on-demand-and-on-a-schedule/
+
 # stop
 az network application-gateway stop -g MyResourceGroup -n MyAppGateway
 
