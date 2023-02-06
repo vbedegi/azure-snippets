@@ -1,0 +1,5 @@
+# stop
+az network application-gateway stop -g MyResourceGroup -n MyAppGateway
+
+# start
+az network application-gateway start -g MyResourceGroup -n MyAppGateway
